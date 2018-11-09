@@ -1,0 +1,11 @@
+/Users/andriizozulia/Desktop/Study/LABS/C#/LAB2/lab2/lab2/bin/Debug/netcoreapp2.1/lab2.deps.json
+/Users/andriizozulia/Desktop/Study/LABS/C#/LAB2/lab2/lab2/bin/Debug/netcoreapp2.1/lab2.runtimeconfig.json
+/Users/andriizozulia/Desktop/Study/LABS/C#/LAB2/lab2/lab2/bin/Debug/netcoreapp2.1/lab2.runtimeconfig.dev.json
+/Users/andriizozulia/Desktop/Study/LABS/C#/LAB2/lab2/lab2/bin/Debug/netcoreapp2.1/lab2.dll
+/Users/andriizozulia/Desktop/Study/LABS/C#/LAB2/lab2/lab2/bin/Debug/netcoreapp2.1/lab2.pdb
+/Users/andriizozulia/Desktop/Study/LABS/C#/LAB2/lab2/lab2/obj/Debug/netcoreapp2.1/lab2.csprojAssemblyReference.cache
+/Users/andriizozulia/Desktop/Study/LABS/C#/LAB2/lab2/lab2/obj/Debug/netcoreapp2.1/lab2.csproj.CoreCompileInputs.cache
+/Users/andriizozulia/Desktop/Study/LABS/C#/LAB2/lab2/lab2/obj/Debug/netcoreapp2.1/lab2.AssemblyInfoInputs.cache
+/Users/andriizozulia/Desktop/Study/LABS/C#/LAB2/lab2/lab2/obj/Debug/netcoreapp2.1/lab2.AssemblyInfo.cs
+/Users/andriizozulia/Desktop/Study/LABS/C#/LAB2/lab2/lab2/obj/Debug/netcoreapp2.1/lab2.dll
+/Users/andriizozulia/Desktop/Study/LABS/C#/LAB2/lab2/lab2/obj/Debug/netcoreapp2.1/lab2.pdb
